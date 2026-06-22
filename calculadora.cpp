@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    count <<"hola mundo">>
+    count <<"hola clase">>
     return 0;
     
 }
